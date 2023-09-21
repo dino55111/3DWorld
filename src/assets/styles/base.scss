@@ -1,0 +1,8 @@
+@use 'normalize.css/normalize.css';
+
+html,
+body {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
