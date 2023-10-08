@@ -1,14 +1,16 @@
 <template>
   <main>
     <starWorld class="starWorldBg"></starWorld>
-    <MainContent></MainContent>
+    <MainKv></MainKv>
     <SectionOne></SectionOne>
+    <SectionTwo></SectionTwo>
   </main>
 </template>
 
 <script setup>
-import MainContent from '../components/MainContent.vue'
+import MainKv from '../components/MainKv.vue'
 import SectionOne from '../components/SectionOne.vue'
+import SectionTwo from '../components/SectionTwo.vue'
 import starWorld from '../components/starWorld.vue'
 </script>
 

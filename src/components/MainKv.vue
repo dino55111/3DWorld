@@ -1,6 +1,6 @@
 <template>
   <section
-    class="MainContent"
+    class="MainKv"
   >
     <div>
       <h1>
@@ -24,7 +24,7 @@
 </template>
 
 <style lang="scss">
-.MainContent {
+.MainKv {
   display: flex;
   align-items: center;
   justify-content: center;
