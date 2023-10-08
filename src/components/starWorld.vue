@@ -10,7 +10,9 @@
 
 <script setup>
 import { initial } from '@/plugin/starWorld.js'
-import { ref } from 'vue'
+import {
+  ref, onMounted 
+} from 'vue'
 
 const starWorld = ref(null)
   
