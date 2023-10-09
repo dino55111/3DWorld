@@ -9,7 +9,7 @@
     <div class="SectionTwo__box">
       <div class="SectionTwo__article">
         <img
-          src="https://picsum.photos/400/300?random=0"
+          src="https://picsum.photos/400/250?random=0"
           alt="fake image"
         >
         <div class="word">
@@ -25,7 +25,7 @@
       </div>
       <div class="SectionTwo__article">
         <img
-          src="https://picsum.photos/400/300?random=1"
+          src="https://picsum.photos/400/250?random=1"
           alt="fake image"
         >
         <div class="word">
@@ -39,7 +39,7 @@
       </div>
       <div class="SectionTwo__article">
         <img
-          src="https://picsum.photos/400/300?random=2"
+          src="https://picsum.photos/400/250?random=2"
           alt="fake image"
         >
         <div class="word">
