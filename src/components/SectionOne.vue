@@ -42,7 +42,7 @@
 <style lang="scss">
 .SectionOne {
   width: 100%;
-  margin: 30px 0;
+  padding: 50px 0;
   color: #ffffff;
 
   &__title {
