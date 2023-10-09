@@ -30,3 +30,7 @@ dist-ssr
 
 # test files
 coverage
+
+
+
+*.d.ts
