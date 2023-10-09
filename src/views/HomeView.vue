@@ -1,10 +1,11 @@
 <template>
   <main>
-    <starWorld class="starWorldBg"></starWorld>
     <MainKv></MainKv>
     <SectionOne></SectionOne>
     <SectionTwo></SectionTwo>
   </main>
+
+  <starWorld class="starWorldBg"></starWorld>
 </template>
 
 <script setup>
@@ -18,6 +19,8 @@ import starWorld from '../components/starWorld.vue'
 .starWorldBg {
   position: fixed;
   top: 0;
+  right: 0;
+  bottom: 0;
   left: 0;
   z-index: -1;
   margin: 0;

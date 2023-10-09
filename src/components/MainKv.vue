@@ -1,5 +1,5 @@
 <template>
-  <section
+  <div
     class="MainKv"
   >
     <div>
@@ -20,7 +20,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </div>
 </template>
 
 <style lang="scss">
@@ -28,6 +28,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
   height: 100vh;
   color: #ffffff;
 
